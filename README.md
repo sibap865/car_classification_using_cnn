@@ -16,7 +16,7 @@ Dataset Link : [dataset](https://www.kaggle.com/datasets/kshitij192/cars-image-d
 
 ## upload dataset and ipynb file to drive or  upload this notebook to collab 
 
-New collab : [collab](colab.research.google.com)
+New collab : [collab](https://colab.research.google.com/)
 
 ## run the code 
 
