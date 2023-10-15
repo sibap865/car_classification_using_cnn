@@ -15,6 +15,7 @@ https://github.com/sibap865/car_classification_using_cnn.git
 Dataset Link : [dataset](https://www.kaggle.com/datasets/kshitij192/cars-image-dataset)
 
 ## upload dataset and ipynb file to drive or  upload this notebook to collab 
+file link : [seven_calss_cars.ipynb](https://github.com/sibap865/car_classification_using_cnn/blob/main/seven_calss_cars.ipynb)
 
 New collab : [collab](https://colab.research.google.com/)
 
