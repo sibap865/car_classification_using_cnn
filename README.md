@@ -1,5 +1,5 @@
 # car_classification_using_cnn
-Ths project explains how a bigener can use pre build VGG16 model to classify  car images
+Ths project explains how a bigener can use CNN (convolutional neural network) to classify  car images
 
 ![alt text](https://github.com/sibap865/datasets-for-project/blob/main/screenshots/car.gif)
 # Download Dataset from kaggle:
